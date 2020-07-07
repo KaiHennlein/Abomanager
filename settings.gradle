@@ -1,0 +1,2 @@
+rootProject.name='My Application bottom nav bar'
+include ':app'
